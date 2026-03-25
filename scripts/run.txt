@@ -1,8 +1,0 @@
-python tests\evaluation2.py --ref_dir "tests\hifi 3hr tests\discrete\Real" --gen_dir "tests\hifi 3hr tests\discrete\AI" --sr 16000 --compute_eer_random --output "results_disc_hifi_3hr.json"
-python tests\evaluation2.py --ref_dir "tests\hifi 3hr tests\probabilistic\Real" --gen_dir "tests\hifi 3hr tests\probabilistic\AI" --sr 16000 --compute_eer_random --output "results_prob_hifi_3hr.json"
-
-python tests\evaluation2.py --ref_dir "tests\hifi 3hr tests - mid epoch\discrete\Real" --gen_dir "tests\hifi 3hr tests - mid epoch\discrete\AI" --sr 16000 --compute_eer_random --output "results_disc_hifi_3hr_ME.json"
-python tests\evaluation2.py --ref_dir "tests\hifi 3hr tests - mid epoch\probabilistic\Real" --gen_dir "tests\hifi 3hr tests - mid epoch\probabilistic\AI" --sr 16000 --compute_eer_random --output "results_prob_hifi_3hr_ME.json"
-
-python tests\evaluation2.py --ref_dir "tests\hifi 3hr tests - final epoch\discrete\Real" --gen_dir "tests\hifi 3hr tests - final epoch\discrete\AI" --sr 16000 --compute_eer_random --output "results_disc_hifi_3hr_FE.json"
-python tests\evaluation2.py --ref_dir "tests\hifi 3hr tests - final epoch\probabilistic\Real" --gen_dir "tests\hifi 3hr tests - final epoch\probabilistic\AI" --sr 16000 --compute_eer_random --output "results_prob_hifi_3hr_FE.json"
