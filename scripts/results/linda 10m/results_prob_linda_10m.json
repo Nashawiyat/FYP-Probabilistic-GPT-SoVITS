@@ -1,0 +1,175 @@
+{
+  "speaker_similarity": {
+    "mean_cosine": 0.7478928148746491,
+    "eer": 0.4
+  },
+  "pesq": 1.0933953285217286,
+  "mcd": 418.3473171088681,
+  "stoi": 0.17399109562434092,
+  "details": [
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test1.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test1.wav",
+      "cosine": 0.5476616621017456,
+      "pesq": 1.1969056129455566,
+      "mcd": 403.0404924146336,
+      "stoi": 0.0391516109059338
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test10.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test10.wav",
+      "cosine": 0.6918953061103821,
+      "pesq": 1.076826572418213,
+      "mcd": 418.2525722522565,
+      "stoi": 0.18296509098718985
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test11.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test11.wav",
+      "cosine": 0.8583491444587708,
+      "pesq": 1.0663820505142212,
+      "mcd": 360.4084977516783,
+      "stoi": 0.36139965365116994
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test12.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test12.wav",
+      "cosine": 0.5789355039596558,
+      "pesq": 1.0773465633392334,
+      "mcd": 402.23713549462155,
+      "stoi": 0.09403884166163054
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test13.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test13.wav",
+      "cosine": 0.7928727865219116,
+      "pesq": 1.0987718105316162,
+      "mcd": 399.3557484877402,
+      "stoi": 0.19134778919558185
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test14.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test14.wav",
+      "cosine": 0.8085731863975525,
+      "pesq": 1.0638768672943115,
+      "mcd": 349.61172139328653,
+      "stoi": 0.1465207998227827
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test15.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test15.wav",
+      "cosine": 0.7793923020362854,
+      "pesq": 1.047671914100647,
+      "mcd": 433.57047847059096,
+      "stoi": 0.0469420916045925
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test16.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test16.wav",
+      "cosine": 0.78020179271698,
+      "pesq": 1.0437878370285034,
+      "mcd": 360.1174102579271,
+      "stoi": 0.11129561424033126
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test17.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test17.wav",
+      "cosine": 0.8279744386672974,
+      "pesq": 1.0513347387313843,
+      "mcd": 490.63974680845337,
+      "stoi": 0.15660799015625348
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test18.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test18.wav",
+      "cosine": 0.7760242223739624,
+      "pesq": 1.0484237670898438,
+      "mcd": 394.2242931110852,
+      "stoi": 0.07465266236695291
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test19.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test19.wav",
+      "cosine": 0.7069215774536133,
+      "pesq": 1.1856420040130615,
+      "mcd": 446.92315482675184,
+      "stoi": 0.19579747289658633
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test2.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test2.wav",
+      "cosine": 0.8281621932983398,
+      "pesq": 1.1214882135391235,
+      "mcd": 406.2069618199881,
+      "stoi": 0.19731734386977662
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test20.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test20.wav",
+      "cosine": 0.8403840065002441,
+      "pesq": 1.077617883682251,
+      "mcd": 350.0042914523657,
+      "stoi": 0.26945503370417007
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test3.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test3.wav",
+      "cosine": 0.7494210600852966,
+      "pesq": 1.068405270576477,
+      "mcd": 402.8877127522357,
+      "stoi": 0.09955095229620248
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test4.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test4.wav",
+      "cosine": 0.8243041038513184,
+      "pesq": 1.0523700714111328,
+      "mcd": 400.38982674263116,
+      "stoi": 0.04533729715055668
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test5.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test5.wav",
+      "cosine": 0.719397783279419,
+      "pesq": 1.1540319919586182,
+      "mcd": 574.2806480533418,
+      "stoi": 0.231972740940583
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test6.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test6.wav",
+      "cosine": 0.7465029954910278,
+      "pesq": 1.0541658401489258,
+      "mcd": 518.4706650211452,
+      "stoi": 0.2849549561695497
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test7.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test7.wav",
+      "cosine": 0.44302213191986084,
+      "pesq": 1.0752670764923096,
+      "mcd": 424.3160632250085,
+      "stoi": 0.45458317581152
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test8.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test8.wav",
+      "cosine": 0.8430792689323425,
+      "pesq": 1.2549948692321777,
+      "mcd": 412.9527829384663,
+      "stoi": 0.13891329173460804
+    },
+    {
+      "ref": "tests\\linda 10m tests\\probabilistic\\Real\\test9.wav",
+      "gen": "tests\\linda 10m tests\\probabilistic\\AI\\test9.wav",
+      "cosine": 0.8147808313369751,
+      "pesq": 1.052595615386963,
+      "mcd": 419.056138903153,
+      "stoi": 0.15701750332084655
+    }
+  ],
+  "meta": {
+    "num_pos_pairs": 20,
+    "sr": 16000
+  }
+}

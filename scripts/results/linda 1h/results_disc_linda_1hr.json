@@ -1,0 +1,175 @@
+{
+  "speaker_similarity": {
+    "mean_cosine": 0.7249385237693786,
+    "eer": 0.375
+  },
+  "pesq": 1.0924223124980927,
+  "mcd": 466.8609664806522,
+  "stoi": 0.17043913414459128,
+  "details": [
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test1.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test1.wav",
+      "cosine": 0.5111464262008667,
+      "pesq": 1.050982117652893,
+      "mcd": 432.16125815366155,
+      "stoi": 0.028014420765109755
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test10.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test10.wav",
+      "cosine": 0.7553492784500122,
+      "pesq": 1.0860886573791504,
+      "mcd": 444.7799479948585,
+      "stoi": 0.19979277252986544
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test11.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test11.wav",
+      "cosine": 0.7972797155380249,
+      "pesq": 1.0959365367889404,
+      "mcd": 424.71410060982186,
+      "stoi": 0.23450218245790802
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test12.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test12.wav",
+      "cosine": 0.5371059775352478,
+      "pesq": 1.0396414995193481,
+      "mcd": 526.312816933402,
+      "stoi": 0.13730648035729068
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test13.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test13.wav",
+      "cosine": 0.8207776546478271,
+      "pesq": 1.0520055294036865,
+      "mcd": 494.95440073213433,
+      "stoi": 0.1738478454541824
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test14.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test14.wav",
+      "cosine": 0.8031373023986816,
+      "pesq": 1.0491863489151,
+      "mcd": 375.70707605947774,
+      "stoi": 0.138960864256753
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test15.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test15.wav",
+      "cosine": 0.7820038795471191,
+      "pesq": 1.053372859954834,
+      "mcd": 482.5503633245398,
+      "stoi": 0.059170703957504636
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test16.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test16.wav",
+      "cosine": 0.7742710113525391,
+      "pesq": 1.0412157773971558,
+      "mcd": 507.5987084093255,
+      "stoi": 0.14236280781726646
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test17.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test17.wav",
+      "cosine": 0.7545144557952881,
+      "pesq": 1.041313886642456,
+      "mcd": 467.47554756409056,
+      "stoi": 0.15313070677777318
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test18.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test18.wav",
+      "cosine": 0.7871170043945312,
+      "pesq": 1.0400969982147217,
+      "mcd": 476.624788165776,
+      "stoi": 0.04474136802326947
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test19.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test19.wav",
+      "cosine": 0.5738024115562439,
+      "pesq": 1.075950026512146,
+      "mcd": 455.2683798030318,
+      "stoi": 0.42130399808938834
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test2.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test2.wav",
+      "cosine": 0.8136388659477234,
+      "pesq": 1.0752042531967163,
+      "mcd": 459.0931929166152,
+      "stoi": 0.08034915013103774
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test20.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test20.wav",
+      "cosine": 0.8603328466415405,
+      "pesq": 1.1061676740646362,
+      "mcd": 449.35015340932455,
+      "stoi": 0.16169204203629817
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test3.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test3.wav",
+      "cosine": 0.7074954509735107,
+      "pesq": 1.0539244413375854,
+      "mcd": 411.03305647037047,
+      "stoi": 0.0549874473700915
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test4.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test4.wav",
+      "cosine": 0.7366441488265991,
+      "pesq": 1.042488932609558,
+      "mcd": 415.4644660846142,
+      "stoi": 0.23686461017998986
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test5.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test5.wav",
+      "cosine": 0.7142772078514099,
+      "pesq": 1.2472119331359863,
+      "mcd": 562.950166763323,
+      "stoi": 0.17253536752469517
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test6.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test6.wav",
+      "cosine": 0.7837566137313843,
+      "pesq": 1.148774266242981,
+      "mcd": 476.9754473353721,
+      "stoi": 0.1413571302953718
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test7.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test7.wav",
+      "cosine": 0.411582350730896,
+      "pesq": 1.0547544956207275,
+      "mcd": 438.9393814471141,
+      "stoi": 0.44684052668800706
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test8.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test8.wav",
+      "cosine": 0.7932624220848083,
+      "pesq": 1.1293150186538696,
+      "mcd": 488.6524458212714,
+      "stoi": 0.18335535626148572
+    },
+    {
+      "ref": "tests\\linda 1hr tests\\discrete\\Real\\test9.wav",
+      "gen": "tests\\linda 1hr tests\\discrete\\AI\\test9.wav",
+      "cosine": 0.7812754511833191,
+      "pesq": 1.3648149967193604,
+      "mcd": 546.6136316149211,
+      "stoi": 0.19766690191853725
+    }
+  ],
+  "meta": {
+    "num_pos_pairs": 20,
+    "sr": 16000
+  }
+}

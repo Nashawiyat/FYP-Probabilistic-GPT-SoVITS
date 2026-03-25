@@ -1,0 +1,175 @@
+{
+  "speaker_similarity": {
+    "mean_cosine": 0.7816114783287048,
+    "eer": 0.35
+  },
+  "pesq": 1.0771084427833557,
+  "mcd": 452.5802657636306,
+  "stoi": 0.15721031431949523,
+  "details": [
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test1.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test1.wav",
+      "cosine": 0.6432002782821655,
+      "pesq": 1.0415364503860474,
+      "mcd": 481.0023256512903,
+      "stoi": -0.0022079836896589607
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test10.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test10.wav",
+      "cosine": 0.7808114290237427,
+      "pesq": 1.1524807214736938,
+      "mcd": 407.8395294228032,
+      "stoi": 0.2330307631864616
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test11.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test11.wav",
+      "cosine": 0.8439961671829224,
+      "pesq": 1.0616601705551147,
+      "mcd": 412.10148652430354,
+      "stoi": 0.15202140769018627
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test12.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test12.wav",
+      "cosine": 0.6916797757148743,
+      "pesq": 1.059592843055725,
+      "mcd": 437.4538193043462,
+      "stoi": 0.10277594245956263
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test13.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test13.wav",
+      "cosine": 0.8538879752159119,
+      "pesq": 1.1438002586364746,
+      "mcd": 527.8579944606288,
+      "stoi": 0.2102375963677584
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test14.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test14.wav",
+      "cosine": 0.8639042973518372,
+      "pesq": 1.0653060674667358,
+      "mcd": 397.2277696244383,
+      "stoi": 0.19866489888459818
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test15.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test15.wav",
+      "cosine": 0.7910799980163574,
+      "pesq": 1.0609333515167236,
+      "mcd": 454.9610346676623,
+      "stoi": 0.06152510248021796
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test16.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test16.wav",
+      "cosine": 0.7835485339164734,
+      "pesq": 1.0467000007629395,
+      "mcd": 390.92802173485694,
+      "stoi": 0.12879828082982092
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test17.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test17.wav",
+      "cosine": 0.8014128804206848,
+      "pesq": 1.0770987272262573,
+      "mcd": 495.6049590133844,
+      "stoi": 0.1734285961401846
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test18.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test18.wav",
+      "cosine": 0.8425295948982239,
+      "pesq": 1.0347726345062256,
+      "mcd": 524.715838485422,
+      "stoi": 0.15911733619092
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test19.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test19.wav",
+      "cosine": 0.7472211718559265,
+      "pesq": 1.0565006732940674,
+      "mcd": 435.30919798599433,
+      "stoi": 0.15921635469366455
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test2.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test2.wav",
+      "cosine": 0.8519090414047241,
+      "pesq": 1.1803314685821533,
+      "mcd": 429.6459856233822,
+      "stoi": 0.18259812254649513
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test20.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test20.wav",
+      "cosine": 0.8561111688613892,
+      "pesq": 1.054614543914795,
+      "mcd": 413.1300519869542,
+      "stoi": 0.26907525838479934
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test3.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test3.wav",
+      "cosine": 0.764553427696228,
+      "pesq": 1.0661274194717407,
+      "mcd": 415.13771060074214,
+      "stoi": 0.25989624042251624
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test4.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test4.wav",
+      "cosine": 0.8066041469573975,
+      "pesq": 1.0415977239608765,
+      "mcd": 375.18962774877696,
+      "stoi": 0.09694150724578465
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test5.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test5.wav",
+      "cosine": 0.7516376376152039,
+      "pesq": 1.110960841178894,
+      "mcd": 519.4297816455635,
+      "stoi": 0.1599744379409956
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test6.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test6.wav",
+      "cosine": 0.7870499491691589,
+      "pesq": 1.0423848628997803,
+      "mcd": 415.62194807120034,
+      "stoi": 0.18091459241566152
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test7.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test7.wav",
+      "cosine": 0.5009451508522034,
+      "pesq": 1.0664187669754028,
+      "mcd": 469.3174295388289,
+      "stoi": 0.07767549150129609
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test8.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test8.wav",
+      "cosine": 0.848181426525116,
+      "pesq": 1.0452104806900024,
+      "mcd": 489.6377047225629,
+      "stoi": 0.17278087381386076
+    },
+    {
+      "ref": "tests\\linda 6hr tests - mid epoch\\probabilistic\\Real\\test9.wav",
+      "gen": "tests\\linda 6hr tests - mid epoch\\probabilistic\\AI\\test9.wav",
+      "cosine": 0.8219655156135559,
+      "pesq": 1.1341408491134644,
+      "mcd": 559.4930984594698,
+      "stoi": 0.16774146688477898
+    }
+  ],
+  "meta": {
+    "num_pos_pairs": 20,
+    "sr": 16000
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "speaker_similarity": {
+    "mean_cosine": 0.5737288251519204,
+    "eer": 0.25
+  },
+  "pesq": 1.054737377166748,
+  "mcd": 403.7075464227849,
+  "stoi": 0.15016042777712155,
+  "details": [
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test1.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test1.wav",
+      "cosine": 0.5130001902580261,
+      "pesq": 1.0631648302078247,
+      "mcd": 280.0910588672636,
+      "stoi": 0.1355360480716155
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test10.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test10.wav",
+      "cosine": 0.6950569748878479,
+      "pesq": 1.030948519706726,
+      "mcd": 432.64268353154665,
+      "stoi": 0.21626581801851838
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test11.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test11.wav",
+      "cosine": 0.5748694539070129,
+      "pesq": 1.0437288284301758,
+      "mcd": 529.039215542346,
+      "stoi": 0.133316605810502
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test12.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test12.wav",
+      "cosine": 0.6414268612861633,
+      "pesq": 1.0442990064620972,
+      "mcd": 569.9872667372962,
+      "stoi": 0.03621114229086884
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test13.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test13.wav",
+      "cosine": 0.5762353539466858,
+      "pesq": 1.0720460414886475,
+      "mcd": 571.0518695601637,
+      "stoi": -0.009235990113674557
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test14.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test14.wav",
+      "cosine": 0.5480062961578369,
+      "pesq": 1.0436605215072632,
+      "mcd": 316.81239200261024,
+      "stoi": 0.10545223511932378
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test15.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test15.wav",
+      "cosine": 0.6414943933486938,
+      "pesq": 1.041223406791687,
+      "mcd": 318.82880273860053,
+      "stoi": 0.15210337279251446
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test16.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test16.wav",
+      "cosine": 0.6655904054641724,
+      "pesq": 1.0478911399841309,
+      "mcd": 319.2665965534766,
+      "stoi": 0.1649941012889904
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test17.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test17.wav",
+      "cosine": 0.40304917097091675,
+      "pesq": 1.1332273483276367,
+      "mcd": 372.2681953902443,
+      "stoi": 0.4117504111223278
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test18.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test18.wav",
+      "cosine": 0.4760635197162628,
+      "pesq": 1.0398069620132446,
+      "mcd": 368.96503058752495,
+      "stoi": 0.33656728488533766
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test19.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test19.wav",
+      "cosine": 0.639247715473175,
+      "pesq": 1.0274783372879028,
+      "mcd": 335.44653877106833,
+      "stoi": 0.10344582291237525
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test2.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test2.wav",
+      "cosine": 0.5326883792877197,
+      "pesq": 1.0681835412979126,
+      "mcd": 277.0184010176128,
+      "stoi": 0.12093450022031471
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test20.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test20.wav",
+      "cosine": 0.6084880828857422,
+      "pesq": 1.0508121252059937,
+      "mcd": 407.98877224185674,
+      "stoi": 0.07977917832179655
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test3.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test3.wav",
+      "cosine": 0.5870590806007385,
+      "pesq": 1.0659198760986328,
+      "mcd": 362.21491239106024,
+      "stoi": 0.2328617180207226
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test4.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test4.wav",
+      "cosine": 0.461410790681839,
+      "pesq": 1.0401419401168823,
+      "mcd": 561.8344305369292,
+      "stoi": 0.14393320029829768
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test5.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test5.wav",
+      "cosine": 0.4676068127155304,
+      "pesq": 1.0494019985198975,
+      "mcd": 424.57539629164893,
+      "stoi": 0.3160586862646211
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test6.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test6.wav",
+      "cosine": 0.6312417387962341,
+      "pesq": 1.056486964225769,
+      "mcd": 359.0275491226729,
+      "stoi": 0.09923156323334392
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test7.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test7.wav",
+      "cosine": 0.5469920039176941,
+      "pesq": 1.0409919023513794,
+      "mcd": 600.078142544389,
+      "stoi": 0.09684905515598215
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test8.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test8.wav",
+      "cosine": 0.5798011422157288,
+      "pesq": 1.0758486986160278,
+      "mcd": 322.5343758218421,
+      "stoi": 0.03558945220902427
+    },
+    {
+      "ref": "tests\\hifi 3hr tests\\probabilistic\\Real\\test9.wav",
+      "gen": "tests\\hifi 3hr tests\\probabilistic\\AI\\test9.wav",
+      "cosine": 0.6852481365203857,
+      "pesq": 1.0594855546951294,
+      "mcd": 344.47929820554384,
+      "stoi": 0.09156434961962891
+    }
+  ],
+  "meta": {
+    "num_pos_pairs": 20,
+    "sr": 16000
+  }
+}

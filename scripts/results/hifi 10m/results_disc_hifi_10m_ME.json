@@ -1,0 +1,175 @@
+{
+  "speaker_similarity": {
+    "mean_cosine": 0.5150615945458412,
+    "eer": 0.25
+  },
+  "pesq": 1.0593658626079558,
+  "mcd": 467.14032277134646,
+  "stoi": 0.2742135430529423,
+  "details": [
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test1.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test1.wav",
+      "cosine": 0.5673023462295532,
+      "pesq": 1.0660203695297241,
+      "mcd": 421.6983647157509,
+      "stoi": 0.3926263624009364
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test10.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test10.wav",
+      "cosine": 0.6462190747261047,
+      "pesq": 1.0532102584838867,
+      "mcd": 478.68156469925094,
+      "stoi": 0.20264865095586104
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test11.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test11.wav",
+      "cosine": 0.49442923069000244,
+      "pesq": 1.034159779548645,
+      "mcd": 456.73834455170885,
+      "stoi": 0.37400036028218453
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test12.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test12.wav",
+      "cosine": 0.5070698857307434,
+      "pesq": 1.0355900526046753,
+      "mcd": 711.1793386170925,
+      "stoi": 0.46082898868863487
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test13.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test13.wav",
+      "cosine": 0.4506710171699524,
+      "pesq": 1.0798832178115845,
+      "mcd": 737.6201883244581,
+      "stoi": -0.08166217811837599
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test14.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test14.wav",
+      "cosine": 0.5804973840713501,
+      "pesq": 1.0695488452911377,
+      "mcd": 388.7032957742928,
+      "stoi": 0.39423748142690906
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test15.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test15.wav",
+      "cosine": 0.46682095527648926,
+      "pesq": 1.0756279230117798,
+      "mcd": 421.3868939866274,
+      "stoi": 0.45988941929081345
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test16.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test16.wav",
+      "cosine": 0.5938984155654907,
+      "pesq": 1.0717560052871704,
+      "mcd": 378.1080231506142,
+      "stoi": 0.1255995523999078
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test17.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test17.wav",
+      "cosine": 0.4008590877056122,
+      "pesq": 1.1362648010253906,
+      "mcd": 402.2149257540516,
+      "stoi": 0.5132084352802345
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test18.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test18.wav",
+      "cosine": 0.32882314920425415,
+      "pesq": 1.0485858917236328,
+      "mcd": 388.9428466555516,
+      "stoi": 0.1502779719961023
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test19.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test19.wav",
+      "cosine": 0.6482757329940796,
+      "pesq": 1.0260469913482666,
+      "mcd": 290.8480540897253,
+      "stoi": 0.11756682943713216
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test2.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test2.wav",
+      "cosine": 0.625321626663208,
+      "pesq": 1.0613882541656494,
+      "mcd": 334.59933452978686,
+      "stoi": 0.48782405620585395
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test20.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test20.wav",
+      "cosine": 0.612168550491333,
+      "pesq": 1.0478874444961548,
+      "mcd": 424.14273656706047,
+      "stoi": 0.6015268469110855
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test3.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test3.wav",
+      "cosine": 0.48314496874809265,
+      "pesq": 1.0927692651748657,
+      "mcd": 670.0742470453187,
+      "stoi": 0.23550337581952885
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test4.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test4.wav",
+      "cosine": 0.49018537998199463,
+      "pesq": 1.05623197555542,
+      "mcd": 628.9149697712807,
+      "stoi": 0.27677409929105956
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test5.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test5.wav",
+      "cosine": 0.32106685638427734,
+      "pesq": 1.0649433135986328,
+      "mcd": 512.4601002906031,
+      "stoi": 0.1405807113326312
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test6.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test6.wav",
+      "cosine": 0.5441631078720093,
+      "pesq": 1.039668321609497,
+      "mcd": 429.94346713378513,
+      "stoi": -0.0040012475077696695
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test7.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test7.wav",
+      "cosine": 0.47680139541625977,
+      "pesq": 1.033850908279419,
+      "mcd": 490.73058388149576,
+      "stoi": 0.03402133232141094
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test8.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test8.wav",
+      "cosine": 0.4337596595287323,
+      "pesq": 1.05746591091156,
+      "mcd": 334.33943444452035,
+      "stoi": 0.5450939406634854
+    },
+    {
+      "ref": "tests\\hifi 10m tests - mid epoch\\discrete\\Real\\test9.wav",
+      "gen": "tests\\hifi 10m tests - mid epoch\\discrete\\AI\\test9.wav",
+      "cosine": 0.6297540664672852,
+      "pesq": 1.0364177227020264,
+      "mcd": 441.47974144395357,
+      "stoi": 0.05772587198121897
+    }
+  ],
+  "meta": {
+    "num_pos_pairs": 20,
+    "sr": 16000
+  }
+}

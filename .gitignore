@@ -1,0 +1,21 @@
+# --- Large Datasets & Test Folders ---
+HiFi-TTS/
+LJSpeech-1.1/
+scripts/tests/
+*.zip
+
+# --- Media & Large Documents ---
+*.mp4
+*.m4a
+FYP_D1.pdf
+
+# --- Temporary Documentation ---
+Jira Link.txt
+Modificaiton steps.txt
+current_changes.txt
+
+# --- System & Python Cache ---
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

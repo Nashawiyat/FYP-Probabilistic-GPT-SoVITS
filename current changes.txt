@@ -1,0 +1,33 @@
+1. utils.py: The Probability Extractor
+The Change: Modified the sampling function to return the full probability distribution (logits) instead of a single integer.
+The Why: This provides the model with the "uncertainty" data (the cloud) needed for soft-token mixtures instead of a binary "yes/no" choice.
+
+Instead of the AI picking just one "best" sound and throwing the rest away, I modified it to keep the probabilities (the "votes") for every possible sound.
+
+2. t2s_model.py: The Handshake Bridge
+The Change: Updated the inference loop to collect these probability vectors into a sequence over time.
+The Why: This ensures the "Brain" (GPT) can communicate the full richness of its predictions to the "Voice" (SoVITS) in a continuous stream.
+
+I created a new "handshake" that carries all those votes over to the voice generator in a smooth sequence, rather than just sending a list of numbers.
+
+3. core_vq.py: The Mixture Engine
+The Change: Implemented decode_soft, a function that performs a weighted sum of codebook embeddings.
+The Why: This is the core mathematical fix; it replaces hard lookups with a "blend" of sounds to reduce the robotic "loss of detail" you identified in your report.
+
+I added the mathematical "blender." If the AI is 60% sure it’s one sound and 40% sure it’s another, this code mixes those two sounds together to create a smoother, more natural transition.
+
+4. models.py: The Linear Adapter
+The Change: Added a trainable nn.Linear layer that processes the blended vector (tilde z) and handles the GPT "Stop Token" mismatch.
+The Why: It acts as a specialized "refining filter" that learns how to map these new, complex mixtures specifically to your unique voice during fine-tuning.
+
+I added a small, trainable "filter" layer. This is the part that actually learns your specific voice; it learns how to take those blended sounds and make them sound exactly like you during training.
+
+5. s2_train.py: The Probabilistic Trainer
+The Change: Injected a probabilistic_rate toggle and "Label Smoothing" into the training forward pass.
+The Why: This allows you to perform a controlled experiment by forcing the model to learn from "soft" signals during the 1-hour fine-tuning phase.
+
+I added a toggle that allows me to "force" the model to learn from these blended sounds 100% of the time. This is how I create the comparison between the standard model and my improved version.
+
+6. inference_webui.py: The Experimental Control
+The Change: Added a UI checkbox and backend logic to switch between standard and probabilistic paths.
+The Why: This enables the real-time A/B testing and audio sample generation required for your PESQ and ECAPA-TDNN quantitative evaluations.
