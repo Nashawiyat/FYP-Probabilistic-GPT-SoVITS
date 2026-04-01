@@ -33,7 +33,6 @@ The primary contribution of this project is the re-engineering of the GPT-SoVITS
 ### 1. End-to-End Data Pipelines
 
 * **Automated Audio Alignment (ASR Bypass):** Engineered custom data pipeline scripts to handle raw audio transcription, resampling, and strict audio-to-text temporal alignment, effectively bypassing the default Automatic Speech Recognition (ASR) constraints.
-* **Trainable Linear Adapter (`models.py`)**: Implemented a translation layer to bridge the high-dimensional continuous latent space with the VITS-based acoustic generator.
 * **Dataset Manifest Generation:** Developed robust preprocessing scripts to automatically parse transcribed datasets and generate the highly specific `.list` metadata formats strictly required by the GPT-SoVITS training pipeline, streamlining bulk data ingestion.
 
 ### 2. Core Architectural Modifications
